@@ -30,7 +30,7 @@ xontrib load prompt_starship
 
 ## Recommendation
 
-We suggest to use `@` character to remember about [you're using xonsh syntax](https://github.com/anki-code/xonsh-cheatsheet/blob/main/README.md#three-most-frequent-things-that-newcomers-overlook) and to potentially [spread the word about xonsh](https://github.com/xonsh/xonsh#the-xonsh-shell-community) if you make a screenshot or show your terminal to friends or collegues:
+We suggest to use `@` character to remember about [you're using xonsh syntax](https://github.com/anki-code/xonsh-cheatsheet/blob/main/README.md#most-frequent-things-that-newcomers-totally-overlook):
 ```ini
 mkdir -p ~/.config/ && echo @("""
 [character]
